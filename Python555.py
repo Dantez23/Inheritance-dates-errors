@@ -17,6 +17,6 @@ print(people)
 print(len(people))
 people.discard("Kevo")
 print(people)
-# git init
-#git add.
-#git commit -m "python class"
+
+
+
